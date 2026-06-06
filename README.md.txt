@@ -1,13 +1,13 @@
-# Marks Percentage Calculator
+# Student Management System
 
-A Python console-based application that calculates marks, percentage, and academic performance.
+A Python console-based application for managing student records.
 
 ## Features
 
-* Enter subject marks
-* Calculate total marks
-* Calculate percentage
-* Display result summary
+* Add student details
+* View student records
+* Manage student information
+* Simple menu-driven interface
 
 ## Technology Used
 
