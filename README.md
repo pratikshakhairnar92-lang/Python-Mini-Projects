@@ -62,6 +62,46 @@ Attendance Tracker is a Python-based desktop application that allows users to ma
 python attendance.py
 ```
 
+## 4. Library Management System – Console Application
+
+**Description:**
+
+Library Management System is a Python-based console application designed to manage book records and library operations. It allows users to add, search, issue, return, and delete books through a menu-driven interface.
+
+### Features
+- Add new books with Book ID, Book Name, and Author Name.
+- Display all book records.
+- Search books by name.
+- Issue available books.
+- Return issued books.
+- Delete book records.
+- Calculate the total number of books.
+- Colorful console interface.
+
+### Technologies Used
+- Python
+- Colorama
+- Lists and Dictionaries
+
+### Installation
+Install the required library:
+
+```bash
+pip install colorama
+```
+
+### How to Run
+
+```bash
+python library.py
+```
+
+### Concepts Used
+- Lists and Dictionaries
+- Loops and Conditional Statements
+- Functions of the Colorama library
+- String Methods
+
 ## Author
 
 Pratiksha Khairnar
