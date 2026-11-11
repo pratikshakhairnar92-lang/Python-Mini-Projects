@@ -1,6 +1,7 @@
-# Student Management System
+# Python Mini Projects
 
-A Python console-based application for managing student records.
+A collection of beginner-friendly Python projects demonstrating programming fundamentals, logic building, and practical problem-solving.
+
 
 ## Features
 
