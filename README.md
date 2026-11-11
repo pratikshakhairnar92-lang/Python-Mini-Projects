@@ -39,6 +39,29 @@ A Python console-based application for managing student records.
 
 **Technology:** Python
 
+## 3. Attendance Tracker – GUI Application
+
+**Description:**
+
+Attendance Tracker is a Python-based desktop application that allows users to manage daily attendance and calculate attendance percentages through a graphical interface.
+
+### Features
+- Enter the total number of days.
+- Dynamically generate an attendance table.
+- Mark attendance as Present (P), Absent (A), or Leave (L).
+- Count total present days.
+- Calculate attendance percentage.
+
+### Technologies Used
+- Python
+- Tkinter
+- ttk (Combobox)
+
+### How to Run
+```bash
+python attendance.py
+```
+
 ## Author
 
 Pratiksha Khairnar
