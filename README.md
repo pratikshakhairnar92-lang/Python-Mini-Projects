@@ -102,6 +102,40 @@ python library.py
 - Functions of the Colorama library
 - String Methods
 
+## 5. Student Management System – Console Application
+
+**Description:**
+
+Student Management System is a Python-based console application designed to manage student records. It allows users to add, view, search, and delete student information while automatically calculating percentages and assigning grades based on marks obtained.
+
+### Features
+- Add student details (Name and Roll Number).
+- Calculate percentage out of 500 marks.
+- Automatically assign grades based on percentage.
+- Display complete student records.
+- Search students by name.
+- Delete student records.
+- Menu-driven interface.
+
+### Technologies Used
+- Python
+- Lists and Dictionaries
+- Conditional Statements
+- Loops
+
+### How to Run
+
+```bash
+python manage.py
+```
+
+### Concepts Used
+- List and Dictionary Operations
+- If-elif-else Statements
+- While and For Loops
+- User Input Handling
+- Percentage and Grade Calculation
+
 ## Author
 
 Pratiksha Khairnar
