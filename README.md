@@ -136,6 +136,35 @@ python manage.py
 - User Input Handling
 - Percentage and Grade Calculation
 
+## 6. Percentage & Estimated Percentile Calculator – GUI Application
+
+**Description:**  
+A Python-based desktop application that calculates percentage and provides an estimated percentile based on obtained marks and total marks.
+
+**Features:**
+- Enter obtained marks and total marks.
+- Calculate percentage automatically.
+- Display estimated percentile.
+- Simple and user-friendly graphical interface.
+- Error message for invalid number inputs.
+
+**Technologies Used:**
+- Python
+- Tkinter
+- Messagebox
+
+**How to Run:**
+```bash
+python marks.py
+```
+
+**Concepts Used:**
+- GUI Development
+- Functions
+- Exception Handling
+- Mathematical Calculations
+- Tkinter Widgets
+
 ## Author
 
 Pratiksha Khairnar
